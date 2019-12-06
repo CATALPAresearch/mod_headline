@@ -18,7 +18,7 @@ module.exports = function (grunt) {
         watch: {
             // If any .less file changes in directory "less" then run the "less" task.
             files: "less/*.less",
-            tasks: ["less"]
+            tasks: ["concat_css", "cssmin"]
         },
         less: {
             // Production config is also available.
