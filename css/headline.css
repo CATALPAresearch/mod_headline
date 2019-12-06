@@ -1,0 +1,15 @@
+.modtype_headline {
+    border-left: solid 10px #777;
+    background-color: #f8f9fa;
+    vertical-align: middle;
+    color: #666;
+    margin: 16px 0 0 4px !important;
+}
+
+.modtype_headline p {
+    margin: 0;
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 0 0 0 10px;
+    color: #666;
+}
