@@ -38,7 +38,7 @@ $string['indicator:socialbreadth_help'] = 'This indicator is based on the social
 $string['headline:addinstance'] = 'Add a new headline';
 $string['headline:view'] = 'View headline';
 $string['headlinetext'] = 'Headline text';
-$string['modulename'] = 'Headline';
+$string['modulename'] = 'headline';
 $string['modulename_help'] = 'The headline module enables text and multimedia to be inserted into the course page in between links to other resources and activities. headlines are very versatile and can help to improve the appearance of a course if used thoughtfully.
 
 headlines may be used
