@@ -58,8 +58,7 @@ class restore_headline_activity_structure_step extends restore_activity_structur
 
     protected function after_execute() {
         // Add label related files, no need to match by itemname (just internally handled context)
-        // fixed for testing
-        $this->add_related_files('mod_headline', 'intro', null);
+        //$this->add_related_files('mod_headline', 'intro', null);
     }
 
 }
