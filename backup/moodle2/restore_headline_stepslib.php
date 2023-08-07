@@ -23,7 +23,7 @@
  */
 
 /**
- * Define all the restore steps that will be used by the restore_url_activity_task
+ * Define all the restore steps that will be used by the restore_headline_activity_task
  */
 
 /**
@@ -58,7 +58,7 @@ class restore_headline_activity_structure_step extends restore_activity_structur
 
     protected function after_execute() {
         // Add label related files, no need to match by itemname (just internally handled context)
-        //$this->add_related_files('mod_headline', 'intro', null);
+        $this->add_related_files('mod_headline', 'intro', null);
     }
 
 }
