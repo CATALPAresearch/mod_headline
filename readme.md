@@ -3,4 +3,4 @@ Headline is a structural element for course contents. It is a moodle plugin that
 
 
 # Development
-Run `grunt` in order to compile and minify the stylesheets stored in the css-folder. g
+Run `grunt` in order to compile and minify the stylesheets stored in the css-folder. f
