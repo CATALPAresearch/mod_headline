@@ -10,7 +10,7 @@
 <br>
 <div align="center">
 
-![](pix/promotion/headline.gif)
+<img src="pix/headline.png" width="400" /></a>
 
 </div>
 
