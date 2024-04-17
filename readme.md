@@ -127,15 +127,17 @@ See the file index.php for the DOM structure and take a look at css/headlines.cs
 
 ## Citation
 
-Seidel, N. (2024). Headline - A Moodle activity plugin for adding subsection headings to course overview pages. https://github.com/CATALPAresearch/mod_headline
+> Seidel, N. (2024). Headline - A Moodle activity plugin for adding subsection headings to course overview pages. https://github.com/CATALPAresearch/mod_headline
 
-> @misc{Seidel2024-MoodleHeadline,
+````
+@misc{Seidel2024-MoodleHeadline,
 author = {Seidel, Niels},
 keywords = {P-APLE-II,open data,software},
 title = {{Headline - A Moodle activity plugin for adding subsection headings to course overview pages}},
 url = {https://github.com/CATALPAresearch/mod{\_}headline},
 year = {2024}
 }
+```
 
 ## You may also like ...
 
